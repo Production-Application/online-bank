@@ -5,12 +5,14 @@
 - HR Management 
 - Payroll Management
 - Online Payment System 
-- Online card system like Credit/Debit
+- Saving Functionality
 - Loan Management
+- IT Sector
 
 ---
-Right Reserve
+**Author Details**
 
-	- Mamun
-	- mukhulaazam@gmail.com
+	Mamun
+	mukhulaazam@gmail.com
+	Dhaka, Bangladesh.
 ---
