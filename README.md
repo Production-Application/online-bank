@@ -1,6 +1,7 @@
 ## Online Banking System
 
-**This system will meet with absulatly similar with reak life banking system.**
+Online banking system is a platform where every one can perform. So, there is not difference between poor and rich. They are
+traited equally as a customer of a bank. You can saving your money and any time widthdraw and deposite.
 --
 Major Functionality
 --
