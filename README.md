@@ -1,10 +1,10 @@
-## Online Banking System
+### Online Banking System
 
 Online banking system is a platform where every one can perform. So, there is not difference between poor and rich. They are
-traited equally as a customer of a bank. You can saving your money and any time widthdraw and deposite.
---
-Major Functionality
---
+trailed equally a customer of a bank. You can save your money and any time withdraw and deposit.
+
+**Major Functionality**
+-
 - HR Management 
 - Payroll Management
 - Online Payment System 
@@ -17,11 +17,11 @@ Major Functionality
 --
 Front-End: Vue
 Back-end: Vue + Laravel
----
+--
 **Author Details**
 
 	Mamun Chowdhury
-	Software Enginner
+	Senior Software Enginner
 	mukhulaazam@gmail.com
-	Dhaka, Bangladesh.
+	Dhaka-1101, Bangladesh.
 ---
